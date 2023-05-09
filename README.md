@@ -16,5 +16,5 @@ https://www.youtube.com/watch?v=9-QFt-cWZV8&ab_channel=flutterskills
 
 git init
 git add .
-git commit -m 'initial commit'
+git commit -m 'commit message'
 git push -u origin main
